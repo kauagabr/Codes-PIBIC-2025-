@@ -19,6 +19,14 @@ Repositório contendo scripts para organização automática do dataset [NIH Che
 - Move (não copia) os arquivos para a nova estrutura
 - Cria pastas com nomes padronizados em maiúsculas
 
+### 📊 Distribuição Geral
+| Split  | Quantidade | Percentual |
+|--------|------------|------------|
+| Train  | 78,483     | 70%        |
+| Val    | 22,424     | 20%        |
+| Test   | 11,213     | 10%        |
+| **Total** | **112,120** | **100%**  |
+
 ## 🗂 Estrutura do Dataset Organizado
 
 ### Estrutura de Diretórios
@@ -76,10 +84,4 @@ dataset/
     ├── PNEUMONIA/          # 157 imagens
     └── PNEUMOTHORAX/       # 516 imagens
 
-### 📊 Distribuição Geral
-| Split  | Quantidade | Percentual |
-|--------|------------|------------|
-| Train  | 78,483     | 70%        |
-| Val    | 22,424     | 20%        |
-| Test   | 11,213     | 10%        |
-| **Total** | **112,120** | **100%**  |
+
