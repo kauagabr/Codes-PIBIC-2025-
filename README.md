@@ -6,7 +6,7 @@ Repositório contendo scripts para organização automática do dataset [NIH Che
 ## 🗂 Dataset Original
 - **Fonte**: [NIH Chest X-ray Dataset no Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/data?resource=download&select=Data_Entry_2017.csv)
 - **Tamanho**: 112,120 imagens
-- **Labels**: 15 condições médicas + "No Finding"
+- **Labels**: 14 condições médicas + "No Finding"
 
 ## 🛠 Scripts Disponíveis
 
